@@ -93,13 +93,13 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>admin</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://35.178.231.64:8281/amash/repository/tesla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>admin</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://35.178.231.64:8281/amash/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
